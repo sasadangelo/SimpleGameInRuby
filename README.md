@@ -7,6 +7,7 @@ A simple game in ruby where a ship travel int the space to collect stars. The mo
 In October 2015 I attended a Ruby course and I was looking for something interesting to implement with this language. Looking around 
 the web I found Gosu. It is a Ruby library for Game development, for more information on it [visit its wiki on github](https://github.com/gosu/gosu/wiki).
 In this wiki I found [the gosu_examples a tutorial to build an easy game step by step](https://github.com/gosu/gosu/wiki/Ruby-Tutorial).
+The reason why I cloned the project is to have it on Github and have the possibility in the future to improve it if I want.
 
 ## Usage
 
@@ -29,3 +30,7 @@ If step 8 fails for a SSL connection problem this is a well known ruby issue. To
 1. Download the following [pem certificate](https://raw.githubusercontent.com/rubygems/rubygems/master/lib/rubygems/ssl_certs/AddTrustExternalCARoot-2048.pem)
 2. Run the command: _gem which rubygems_. This command will print a path like this one <ruby install directory>/lib/ruby/2.1.0/rubygems.rb. You must store the pem certificate in <ruby install directory>/lib/ruby/2.1.0/rubygems/ssl_certs.
 3. Run again the command: _gem install gosu_.
+
+## Credit
+
+Thanks to Gosu Team for the publishing of this tutorial.
