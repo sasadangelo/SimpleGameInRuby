@@ -7,7 +7,7 @@ A simple game in ruby where a ship travel int the space to collect stars. The mo
 In October 2015 I attended a Ruby course and I was looking for something interesting to implement with this language. Looking around 
 the web I found Gosu. It is a Ruby library for Game development, for more information on it [visit its wiki on github](https://github.com/gosu/gosu/wiki).
 In this wiki I found [the gosu_examples a tutorial to build an easy game step by step](https://github.com/gosu/gosu/wiki/Ruby-Tutorial).
-The reason why I cloned the project is to have it on Github and have the possibility in the future to improve it if I want.
+The reason why I cloned the project is to have it on Github and have the possibility in the future to improve it.
 
 ## Usage
 
